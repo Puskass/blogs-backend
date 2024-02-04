@@ -8,7 +8,7 @@ The backend is built using Node.js with Express, following the MVC (Model-View-C
 ### Clone the Repository
 
 ```
-git clone https://github.com/your-username/simple-blogs-backend.git
+git clone https://github.com/Puskass/blogs-backend.git
 ```
 ### Navigate to the Project Directory
 
