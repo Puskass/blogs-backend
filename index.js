@@ -7,4 +7,10 @@ app.set("views", path.join(__dirname, "views"));
 
 app.use(express.urlencoded({ extended: false }));
 
+const blogsRoutes = require("./routes/blogs.routes")
+const adminRoutes = require("./routes/admin.routes")
+
+app.use(blogsRoutes)
+app.use(adminRoutes)
+
 app.listen(5000);
