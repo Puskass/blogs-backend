@@ -13,7 +13,7 @@ git clone https://github.com/Puskass/blogs-backend.git
 ### Navigate to the Project Directory
 
 ```
-cd simple-blogs-backend
+cd blogs-backend
 ```
 ### Install Dependencies
 ```
